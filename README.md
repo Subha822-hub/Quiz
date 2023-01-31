@@ -23,3 +23,9 @@ Scripting: JS
 <hr>
 
 ### Preview
+
+![alt text](https://github.com/Subha822-hub/Quiz/blob/main/images/pic1.png)
+<br><br>
+<br>
+
+![alt text](https://github.com/Subha822-hub/Quiz/blob/main/images/pic2.png)
